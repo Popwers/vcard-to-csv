@@ -27,7 +27,7 @@ This JavaScript script converts vCard files into CSV format, making it easy to e
 2. Clone this repository to your local machine:
 
    ```shell
-   git clone https://github.com/yourusername/vcard-to-csv-converter.git
+   git clone https://github.com/Popwers/vcard-to-csv-converter.git
     ```
 3. Navigate to the project directory:
     ```shell
